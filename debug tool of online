@@ -1,10 +1,17 @@
-http://jsrun.net/new
-有什么不同的方式可以隐藏内容（使其仅适用于屏幕阅读器）？
-这些方法与可访问性（a11y）有关。
+1.http://jsrun.net/new
+  有什么不同的方式可以隐藏内容（使其仅适用于屏幕阅读器）？
+  这些方法与可访问性（a11y）有关。
 
-visibility: hidden：元素仍然在页面流中，并占用空间。
-width: 0; height: 0：使元素不占用屏幕上的任何空间，导致不显示它。
-position: absolute; left: -99999px： 将它置于屏幕之外。
-text-indent: -9999px：这只适用于block元素中的文本。
-Metadata： 例如通过使用 Schema.org，RDF 和 JSON-LD。
-WAI-ARIA：如何增加网页可访问性的 W3C 技术规范
+  visibility: hidden：元素仍然在页面流中，并占用空间。
+  width: 0; height: 0：使元素不占用屏幕上的任何空间，导致不显示它。
+  position: absolute; left: -99999px： 将它置于屏幕之外。
+  text-indent: -9999px：这只适用于block元素中的文本。
+  Metadata： 例如通过使用 Schema.org，RDF 和 JSON-LD。
+  WAI-ARIA：如何增加网页可访问性的 W3C 技术规范
+  
+  
+2.https://www.w3cschool.cn/fetch_api/fetch_api-atvq2nma.html(fetch api 官方文档)
+
+
+
+
