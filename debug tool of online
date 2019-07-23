@@ -51,3 +51,6 @@ $(".button-group").on('click','.btn',function(){
 由于事件委托是通过事件冒泡实现的，所以如果子级的元素阻止了事件冒泡，那么事件委托也将失效
 
 6.https://www.freecodecamp.one/ (在线学习课程)
+
+
+7.https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow
