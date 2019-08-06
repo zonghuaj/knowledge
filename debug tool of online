@@ -54,3 +54,5 @@ $(".button-group").on('click','.btn',function(){
 
 
 7.https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow
+
+8.https://www.w3cschool.cn/angularjs/(angular js w3c school)
